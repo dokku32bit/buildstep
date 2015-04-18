@@ -1,4 +1,9 @@
-# Buildstep
+# Buildstep (32bit)
+
+This is a fork of the original buildstep project to provide 32bit buildpacks for dokku
+
+-------------------------
+Original Documentation
 
 Heroku-style application builds using Docker and Buildpacks. Used by [Dokku](https://github.com/progrium/dokku) to make a mini-Heroku.
 
